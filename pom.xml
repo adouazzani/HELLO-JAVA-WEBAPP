@@ -25,7 +25,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>corp1</id>
       <name>Tomcat Repository</name>
-      <url>scp://usr/local/apache-tomcat-9.0.85/webapps</url>
+      <url>http://localhost:8081</url>
       <layout>default</layout>
     </repository>
   </distributionManagement>
